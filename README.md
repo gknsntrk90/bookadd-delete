@@ -1,3 +1,6 @@
+
+![Screen Recording 2025-04-04 at 03 46 03 60 PM](https://github.com/user-attachments/assets/13870a78-557d-4ffd-a05a-d8b2cc3fe125)
+
 <h1>CRUD APP</h1>
 <p>Craete Read Update Delete</p>
 <p>Oluştur, oku, düzenle, sil</p>
